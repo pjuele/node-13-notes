@@ -1,6 +1,6 @@
 # Following: Beyond Fireship | Next.js 13 - The Basics
 
-NOTE: Using (Pocketbase)[] as backend.
+NOTE: Using [Pocketbase](https://pocketbase.io/) as backend.
 
 ### Run Pocketbase locally with:
 ```
